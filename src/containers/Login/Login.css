@@ -1,0 +1,8 @@
+.column {
+    max-width: 500px;
+}
+
+.login {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}

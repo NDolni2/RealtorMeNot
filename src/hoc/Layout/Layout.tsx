@@ -2,8 +2,7 @@ import * as React from 'react';
 import Navbar from '../../containers/Navbar/Navbar';
 
 interface Props {
-    // tslint:disable-next-line:no-any
-    children?: any;
+    children?: React.ReactNode;
 }
 
 const layout = (props: Props) => (
